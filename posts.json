@@ -1,0 +1,17 @@
+posts: [
+  0: {
+    author: "e.billu",
+    description: "Forza casteddu",
+    imgSrc: "https://shorturl.at/fiwM4",
+    comments: [
+      0: {
+        author: "michele_para__",
+        description: "conca e cassu"
+      }
+      1: {
+        author: "e.billu",
+        description: "sucunnu a mamma rua miche"
+      }
+    ]
+  }
+]
